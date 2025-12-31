@@ -43,3 +43,5 @@
 3rdparty
 build
 cmake-*
+.idea
+.cache
